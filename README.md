@@ -43,7 +43,7 @@ Random Forest performed better than Logistic Regression across most evaluation m
 ### Confusion Matrix
 
 ![Confusion Matrix](screenshots/confusion_matrix_logistic_regression.png)
-![Confusion Matrix](screenshots/confusion_matrix_logistic_regression.png)
+![Confusion Matrix](screenshots[/confusion_matrix_random_forest.png)
 
 ### ROC Curve
 
